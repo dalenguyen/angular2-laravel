@@ -13,6 +13,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 npm install
 ```
 - Download [laravel-api](https://github.com/dalenguyen/laravel-api), which I used as a RESTful api.
+
+- Before running your angular app, you need to check few things: app folder in `systemjs.config.js`, base and location from `index.html`, templateUrl and styleUrls from `Components`.
+
 - Run your `angular` app by this command
 ```
 npm start
