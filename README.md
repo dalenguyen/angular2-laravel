@@ -2,6 +2,8 @@
 
 This project was generated from Angular QuickStart [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html).
 
+Live demo at [dalenguyen.me](http://dalenguyen.me/angular2/http-observables/src/)
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -27,3 +29,5 @@ php artisan serve
 You will see this app will load data from your api.
 
 Enjoy!
+
+This project is based on https://github.com/eliyas5044/angular-laravel
